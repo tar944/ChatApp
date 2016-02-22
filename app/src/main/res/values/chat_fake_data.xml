@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recived_messages">
+        <item>hi</item>
+        <item>my name is morteza</item>
+        <item>how are u?</item>
+        <item>i am an android programmer</item>
+        <item>i like to work with you</item>
+        <item>i had a big resume in android programming</item>
+        <item>yes,i can do your projects</item>
+    </string-array>
+    <string-array name="recive_time">
+        <item>9:15</item>
+        <item>9:17</item>
+        <item>9:20</item>
+        <item>9:23</item>
+        <item>9:25</item>
+        <item>9:27</item>
+        <item>9:30</item>
+    </string-array>
+    <string-array name="send_time">
+        <item>9:16</item>
+        <item>9:18</item>
+        <item>9:21</item>
+        <item>9:24</item>
+        <item>9:26</item>
+        <item>9:28</item>
+        <item>9:31</item>
+    </string-array>
+    <string-array name="send_messages">
+        <item>hi</item>
+        <item>and my name is morgan</item>
+        <item>i am fine thanks</item>
+        <item>good</item>
+        <item>and we too</item>
+        <item>very good,can u do our projects?</item>
+        <item>ok,very nice</item>
+    </string-array>
+</resources>

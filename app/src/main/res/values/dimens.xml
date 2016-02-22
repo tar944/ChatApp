@@ -1,0 +1,48 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="txt_size_1">18sp</dimen>
+    <dimen name="txt_size_2">20sp</dimen>
+    <dimen name="txt_size_3">22sp</dimen>
+    <dimen name="txt_size_4">30sp</dimen>
+    <!--...................................Space.................................................-->
+    <dimen name="splash_top_space">90dp</dimen>
+    <dimen name="splash_bottom_space">170dp</dimen>
+    <dimen name="splash_pbar">90dp</dimen>
+    <dimen name="left_icon_margin_left">10dp</dimen>
+    <dimen name="main_page_margin">30dp</dimen>
+    <dimen name="main_page_margin_right">20dp</dimen>
+    <dimen name="list_num_margin">10dp</dimen>
+    <!--...................................Views Size............................................-->
+    <dimen name="splash_pbar_size">30dp</dimen>
+    <dimen name="action_bar_size">35dp</dimen>
+    <dimen name="action_bar_margin">10dp</dimen>
+    <dimen name="text_image_img_size">50dp</dimen>
+    <dimen name="select_team_header_size">75dp</dimen>
+    <dimen name="logo_lv_size">50dp</dimen>
+    <dimen name="tutorial_image_height">220dp</dimen>
+    <dimen name="left_icon_size">45dp</dimen>
+    <dimen name="number_size">40dp</dimen>
+    <dimen name="sign_tv_size">250dp</dimen>
+    <dimen name="select_league_logo">30dp</dimen>
+    <dimen name="r_drawer_header_size">180dp</dimen>
+    <dimen name="r_drawer_acount_img_size">65dp</dimen>
+    <!--...................................Text Size.............................................-->
+    <dimen name="splash_text_size2">25sp</dimen>
+    <dimen name="splash_text_size1">20sp</dimen>
+    <dimen name="action_text_size">23sp</dimen>
+    <dimen name="norm_text_size">20sp</dimen>
+    <dimen name="title_text_size">22sp</dimen>
+    <dimen name="small_text_size">18sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <!--....................................Match Details........................................-->
+    <dimen name="team_logo_size">75dp</dimen>
+    <dimen name="tv_size">100dp</dimen>
+    <dimen name="team_goal_txt_size">30sp</dimen>
+    <!--....................................NewsPage.............................................-->
+    <dimen name="news_list_header">250dp</dimen>
+    <dimen name="news_header_cell_w">80dp</dimen>
+    <dimen name="news_header_cell_h">110dp</dimen>
+</resources>

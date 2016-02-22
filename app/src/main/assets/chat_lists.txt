@@ -1,0 +1,1 @@
+[{"id":1005,"group_name":"special project","last_message":"hi","image_url":"grp1.jpg","last_time ":1234575290,"new_count":1},{"id":1015,"group_name":"other project","last_message":"bye","image_url":"grp2.jpg","last_time ":1234575590,"new_count":0}]

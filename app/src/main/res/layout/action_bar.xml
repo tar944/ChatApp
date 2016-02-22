@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorAccent">
+
+    <ImageView
+        android:layout_width="@dimen/action_bar_size"
+        android:layout_height="@dimen/action_bar_size"
+        android:id="@+id/iv_ac_search"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/search"
+        android:layout_margin="@dimen/action_bar_margin" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ll_back">
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="@dimen/action_bar_size"
+            android:id="@+id/iv_ac_back"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:src="@drawable/back"
+            android:paddingTop="7dp"
+            android:paddingRight="7dp"
+            android:paddingBottom="7dp"
+            android:layout_marginLeft="@dimen/action_bar_margin"
+            android:layout_marginBottom="@dimen/action_bar_margin"
+            android:layout_marginTop="@dimen/action_bar_margin" />
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="@dimen/action_bar_size"
+            android:id="@+id/imageView"
+            android:src="@drawable/chat"
+            android:paddingTop="7dp"
+            android:paddingRight="7dp"
+            android:paddingBottom="7dp"
+            android:layout_alignTop="@+id/iv_ac_back"
+            android:layout_toRightOf="@+id/iv_ac_back"
+            android:layout_toEndOf="@+id/iv_ac_back"
+            android:layout_marginTop="@dimen/action_bar_margin" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Medium Text"
+            android:id="@+id/tv_acn_title"
+            android:layout_centerVertical="true"
+            android:textColor="@color/txt_white"
+            android:layout_toLeftOf="@+id/iv_ac_search"
+            android:singleLine="true"
+            android:layout_toRightOf="@+id/imageView"
+            android:layout_toEndOf="@+id/imageView"
+            android:paddingLeft="10dp"
+            android:layout_marginTop="17dp" />
+    </LinearLayout>
+
+</RelativeLayout>
